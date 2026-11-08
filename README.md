@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Student from Ukraine. I build small tools with AI that save people time — and I share the process in public.
+Student from Ukraine. I build small tools that save people time — and I share the process in public.
 
 **🛠 Tools** (free, open source, run in your browser)
 
