@@ -4,6 +4,7 @@ Student from Ukraine. I build small tools that save people time — and I share 
 
 **🛠 Tools** (free, open source, run in your browser)
 
+- **[ScanStack](https://github.com/econnx/scanstack)** — phone photos of your notebook → one clean PDF for Moodle: removes shadows, whitens the paper, runs in your browser. [Try it →](https://econnx.github.io/scanstack/)
 - **[DocPeek](https://github.com/econnx/docpeek)** — see what your .docx, .xlsx, .pptx or .pdf reveals before you send it: author, edit history, hidden text, invisible characters. [Try it →](https://econnx.github.io/docpeek/)
 - **[SheetSnap](https://github.com/econnx/sheetsnap)** — screenshot of a table → spreadsheet. [Try it →](https://econnx.github.io/sheetsnap/)
 - **[ChatPulse](https://github.com/econnx/chatpulse)** — Telegram Wrapped you come back to: reply debt, fading friends, streaks, a "Who said it?" game. [Try it →](https://econnx.github.io/chatpulse/)
@@ -11,7 +12,7 @@ Student from Ukraine. I build small tools that save people time — and I share 
 **🎓 For students**
 
 - **[StudyLoop](https://github.com/econnx/studyloop)** — turns Moodle lectures into study notes, quizzes and seminar prep with a free local AI. EN / UA / RU.
-- **[student-skills](https://github.com/econnx/student-skills)** — Claude Code plugin: grade your essay against the rubric, check a file for hidden data before you submit, turn notes into a practice exam.
+- **[student-skills](https://github.com/econnx/student-skills)** — Claude Code plugin: grade your essay against the rubric, check your homework solution step by step, check a file for hidden data before you submit, turn notes into a practice exam.
 
 **📚 Guides**
 
