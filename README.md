@@ -4,6 +4,7 @@ Student from Ukraine. I build small tools that save people time — and I share 
 
 **🛠 Tools** (free, open source, run in your browser)
 
+- **[AI Receipt](https://github.com/econnx/aireceipt)** — your Claude Code history printed as a shop receipt: prompts, tokens, cost, how many times you said "please". One command, runs locally. [See it →](https://econnx.github.io/aireceipt/)
 - **[ScanStack](https://github.com/econnx/scanstack)** — phone photos of your notebook → one clean PDF for Moodle: removes shadows, whitens the paper, runs in your browser. [Try it →](https://econnx.github.io/scanstack/)
 - **[DocPeek](https://github.com/econnx/docpeek)** — see what your .docx, .xlsx, .pptx or .pdf reveals before you send it: author, edit history, hidden text, invisible characters. [Try it →](https://econnx.github.io/docpeek/)
 - **[SheetSnap](https://github.com/econnx/sheetsnap)** — screenshot of a table → spreadsheet. [Try it →](https://econnx.github.io/sheetsnap/)
